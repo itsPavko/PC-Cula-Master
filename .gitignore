@@ -26,6 +26,14 @@ PC - Zvuk 2/[Bb]uilds/
 PC - Zvuk 2/[Ll]ogs/
 PC - Zvuk 2/[Uu]ser[Ss]ettings/
 
+PC - Zvuk/[Ll]ibrary/
+PC - Zvuk/[Tt]emp/
+PC - Zvuk/[Oo]bj/
+PC - Zvuk/[Bb]uild/
+PC - Zvuk/[Bb]uilds/
+PC - Zvuk/[Ll]ogs/
+PC - Zvuk/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
