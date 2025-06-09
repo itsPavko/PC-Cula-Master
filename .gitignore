@@ -18,6 +18,14 @@ PC - Vid/[Bb]uilds/
 PC - Vid/[Ll]ogs/
 PC - Vid/[Uu]ser[Ss]ettings/
 
+PC - Zvuk 2/[Ll]ibrary/
+PC - Zvuk 2/[Tt]emp/
+PC - Zvuk 2/[Oo]bj/
+PC - Zvuk 2/[Bb]uild/
+PC - Zvuk 2/[Bb]uilds/
+PC - Zvuk 2/[Ll]ogs/
+PC - Zvuk 2/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
