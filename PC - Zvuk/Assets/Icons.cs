@@ -9,6 +9,8 @@ public class Icons : MonoBehaviour
     public Color desColor;
     public Color initColor;
 
+    public string category;
+
     public int state; // 0 - gray, 1 - focused, 2 - passed
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -26,11 +28,12 @@ public class Icons : MonoBehaviour
 
     }
 
-    public void Focus(Color color)
+    public string Focus(Color color)
     {
         state = 1;
         desSize = initSize + 35;
         desColor = color;
+        return category;
     }
 
     public void Pass()

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: dd21ea996b25e0e4e892419a25f57158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7406040577148544435
+    second: PC-Logo-1_0
+  - first:
+      213: 73185856767958582
+    second: PC-Logo-1_1
+  - first:
+      213: 3898313054859692027
+    second: PC-Logo-1_2
+  - first:
+      213: -7555526047297534917
+    second: PC-Logo-1_3
+  - first:
+      213: 1504846223959472522
+    second: PC-Logo-1_4
+  - first:
+      213: -1804919261032287159
+    second: PC-Logo-1_5
+  - first:
+      213: -2915019117656486895
+    second: PC-Logo-1_6
+  - first:
+      213: -3507249321553921088
+    second: PC-Logo-1_7
+  - first:
+      213: -3636012467434043011
+    second: PC-Logo-1_8
+  - first:
+      213: 9076358242216988297
+    second: PC-Logo-1_9
+  - first:
+      213: 5056352864818350463
+    second: PC-Logo-1_10
+  - first:
+      213: -4143575603159722660
+    second: PC-Logo-1_11
+  - first:
+      213: 3445549143723785037
+    second: PC-Logo-1_12
+  - first:
+      213: 2152768828753759992
+    second: PC-Logo-1_13
+  - first:
+      213: -4907933425693075397
+    second: PC-Logo-1_14
+  - first:
+      213: -7220520830288549506
+    second: PC-Logo-1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC-Logo-1_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 186
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a9eee7555783990800000000000000
+      internalID: -7406040577148544435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 231
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e9c332622040100800000000000000
+      internalID: 73185856767958582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 231
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf70e2ab117991630800000000000000
+      internalID: 3898313054859692027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 231
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b348e934711652790800000000000000
+      internalID: -7555526047297534917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 230
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8931bceaa942e410800000000000000
+      internalID: 1504846223959472522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 230
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f8e5be73a3f6e0800000000000000
+      internalID: -1804919261032287159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 231
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ccc929e85cb87d0800000000000000
+      internalID: -2915019117656486895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 230
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7c02035fb35fc0800000000000000
+      internalID: -3507249321553921088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 231
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c3bfdce94a8dc0800000000000000
+      internalID: -3636012467434043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 230
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e48819bb3b5fd70800000000000000
+      internalID: 9076358242216988297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 231
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c68e0426cb2640800000000000000
+      internalID: 5056352864818350463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 231
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5590b941ff0f76c0800000000000000
+      internalID: -4143575603159722660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 186
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bbecfd0bc01df20800000000000000
+      internalID: 3445549143723785037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 186
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec66908db20ed10800000000000000
+      internalID: 2152768828753759992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 186
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b385c4c7d8483ebb0800000000000000
+      internalID: -4907933425693075397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC-Logo-1_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 186
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79a7519f8e8bcb90800000000000000
+      internalID: -7220520830288549506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC-Logo-1_0: -7406040577148544435
+      PC-Logo-1_1: 73185856767958582
+      PC-Logo-1_10: 5056352864818350463
+      PC-Logo-1_11: -4143575603159722660
+      PC-Logo-1_12: 3445549143723785037
+      PC-Logo-1_13: 2152768828753759992
+      PC-Logo-1_14: -4907933425693075397
+      PC-Logo-1_15: -7220520830288549506
+      PC-Logo-1_2: 3898313054859692027
+      PC-Logo-1_3: -7555526047297534917
+      PC-Logo-1_4: 1504846223959472522
+      PC-Logo-1_5: -1804919261032287159
+      PC-Logo-1_6: -2915019117656486895
+      PC-Logo-1_7: -3507249321553921088
+      PC-Logo-1_8: -3636012467434043011
+      PC-Logo-1_9: 9076358242216988297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

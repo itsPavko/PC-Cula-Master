@@ -34,6 +34,14 @@ PC - Zvuk/[Bb]uilds/
 PC - Zvuk/[Ll]ogs/
 PC - Zvuk/[Uu]ser[Ss]ettings/
 
+PC - Miris/[Ll]ibrary/
+PC - Miris/[Tt]emp/
+PC - Miris/[Oo]bj/
+PC - Miris/[Bb]uild/
+PC - Miris/[Bb]uilds/
+PC - Miris/[Ll]ogs/
+PC - Miris/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
